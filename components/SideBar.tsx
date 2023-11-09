@@ -7,9 +7,12 @@ function SideBar(){
             <div>
                 {/* NewChat */}
                 <NewChat/>
+                
                 <div>
                     {/* ModelSelection */}
                 </div>
+                {/* Map through chat rows */}
+
             </div>
         </div>
     </div>
